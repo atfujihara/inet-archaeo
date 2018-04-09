@@ -1,0 +1,19 @@
+agents:
+  - host: 'localhost'
+    port: 161
+    community: 'public'
+
+separators: ' #:_()'
+
+#link_filter:
+#  - {target_host: '^.*$', action: 'include'}
+
+#icons:
+#  router:   './images/router.png'
+#  switch:   './images/switch.png'
+#  balancer: './images/balancer.png'
+#  firewall: './images/firewall.png'
+
+#icon_rules:
+#  - {model: '^.+$', icon: 'router'}
+#  - {node: '^.*$',  icon: 'switch'}
